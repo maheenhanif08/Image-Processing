@@ -1,1 +1,5 @@
+- In Images you'll find images we used in code (not all images were used)
 
+- In ImageProcessing you'll find all image manupulation but ImageCompression
+
+- In ImageCompression_SVD you'll find the compression code accompanied by options to do just one compression, multiple, bad vs good comparison and grey scale code. (remove quotes surrounding sections of code to run the desired output).
